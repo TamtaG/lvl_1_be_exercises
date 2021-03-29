@@ -26,3 +26,4 @@ console.log('First: ', firstVar);
 console.log('Second:', secondVar);
 console.log('Tamta Giorgadze');
 
+
